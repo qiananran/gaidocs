@@ -1,0 +1,1 @@
+import{_ as d,o as t,c as e,U as o}from"./chunks/framework.7f50b160.js";const p=JSON.parse('{"title":"emoji-list","description":"","frontmatter":{},"headers":[],"relativePath":"tool/emoji-list.md","lastUpdated":null}'),c={name:"tool/emoji-list.md"},r=o("",13),a=[r];function i(n,_,s,l,h,u){return t(),e("div",null,a)}const m=d(c,[["render",i]]);export{p as __pageData,m as default};
