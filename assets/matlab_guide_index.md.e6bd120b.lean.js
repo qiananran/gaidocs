@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as a}from"./chunks/framework.7f50b160.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"matlab/guide/index.md","lastUpdated":null}'),n={name:"matlab/guide/index.md"};function r(o,s,d,c,i,p){return t(),a("div")}const m=e(n,[["render",r]]);export{_ as __pageData,m as default};
